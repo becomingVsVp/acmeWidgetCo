@@ -48,9 +48,9 @@ and the service will be live at www.testingforvp.link and the following will wor
 I'm looking forward to coming on board with your company. :)
 
 
-#REVIEW#
+# REVIEW #
 
-###List of setup items completed:###
+### List of setup items completed: ###
 
 * set up aws account
 * verify php
@@ -103,7 +103,7 @@ I'm looking forward to coming on board with your company. :)
 >>>10:31 time expired
 >>>PROJECT COMPLETED
 
-###List of items todo:###
+### List of items todo: ###
 * talk with Patrick about my $$$$ ;)
 
 
