@@ -49,7 +49,9 @@ I'm looking forward to coming on board with your company. :)
 
 
 #REVIEW#
+
 ###List of setup items completed:###
+
 * set up aws account
 * verify php
 * configure CodeCommit
