@@ -39,10 +39,10 @@ Codebase (other than the gateway class) has 100% test coverage using phpUnit.
 
 When you are ready, I'll finalize the www commit by doing a pull request from dev to main branch 
 and the service will be live at www.testingforvp.link and the following will work
-* [Products=B01,G01](http://web.testingforvp.link/index.php?Products=B01,G01)
-* [Products=R01,R01](http://web.testingforvp.link/index.php?Products=R01,R01)
-* [Products=R01,G01](http://webv.testingforvp.link/index.php?Products=R01,G01)
-* [Products=B01,B01,R01,R01,R01](http://web.testingforvp.link/index.php?Products=B01,B01,R01,R01,R01)
+* [Products=B01,G01](http://www.testingforvp.link/index.php?Products=B01,G01)
+* [Products=R01,R01](http://www.testingforvp.link/index.php?Products=R01,R01)
+* [Products=R01,G01](http://www.testingforvp.link/index.php?Products=R01,G01)
+* [Products=B01,B01,R01,R01,R01](http://www.testingforvp.link/index.php?Products=B01,B01,R01,R01,R01)
 
 ## Final Thoughts ##
 I'm looking forward to coming on board with your company. :)
