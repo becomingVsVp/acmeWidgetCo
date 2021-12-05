@@ -29,7 +29,7 @@ Created two different environments:
 
 ## Decisions Regarding Project ##
 
-All products are stored in a mock gateway rather than in a database.
+All products and delivery rules and special offer rules are stored in a mock gateway rather than in a database.
 
 All monies are stored as cents for accuracy.
 
