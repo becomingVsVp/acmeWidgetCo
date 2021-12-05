@@ -1,0 +1,6 @@
+/vendor/
+/composer.phar
+/composer.phar/
+/composer.json
+/composer.lock
+/tests/
