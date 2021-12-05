@@ -44,9 +44,11 @@ List of setup items completed:
 * verify that project spec is complete
 * look at additional request from Lincoln in email
 >>>9:33 time expired
-
-List of items todo:
 * keep shipping from calculating if now products
 * create readme 
 * create a public sharable account on github and push repo over
+>>>10:31 time expired
+>>>PROJECT COMPLETED
+
+List of items todo:
 * talk with Patrick about my $$$$ ;)
