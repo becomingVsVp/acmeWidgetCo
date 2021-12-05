@@ -48,7 +48,7 @@ and the service will be live at www.testingforvp.link and the following will wor
 I'm looking forward to coming on board with your company. :)
 
 
-# REVIEW #
+# REVIEW OF PROJECT TIMELINE#
 
 ### List of setup items completed: ###
 
@@ -103,7 +103,7 @@ I'm looking forward to coming on board with your company. :)
 >>>10:31 time expired
 >>>PROJECT COMPLETED
 
-### List of items todo: ###
+### todo: ###
 * talk with Patrick about my $$$$ ;)
 
 
